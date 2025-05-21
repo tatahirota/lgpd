@@ -33,8 +33,8 @@ Princípios da LGPD:
 
 ## ** CICLO DE VIDA DOS DADOS**   
 Etapas:   
-    - Coleta: é o ato de obter dados pessoais diretamento do titular ou de outras fontes, com uma finalidade específica e legítima. Exemplo de ferramenta: nextcloud com forms ou logstash (mais avançado);   
-    - Armazenamento: guarda os dados de forma segura, garantindo a sua integridade, confidencialidade e disponibilidade, conforme a finalidade definida na coleta. Exemplo de ferramenta: MariaDB ou SQLite;   
-    - Uso: é o ato de empregar os dados de acordo com a finalidade para a qual foram coletados, que pode incluir análise, compartilhamento específico, entre outros usos. Exemplo de ferramenta: LibreOffice ou Apache Superset;   
-    - Processamento: manipulação dos dados, que pode incluir organização, modificação, anonimização, entre outras formas de processamento. Exemplo de ferramenta: KNIME ou Python com Pandas;   
-    - Descarte: eliminação segura dos dados que não são mais necessários, assegurando que não possam ser recuperados ou acessados posteriormente. Exemplo de ferramenta: BleachBit (GUI) ou Shred (terminal);   
+  - Coleta: é o ato de obter dados pessoais diretamento do titular ou de outras fontes, com uma finalidade específica e legítima. Exemplo de ferramenta: nextcloud com forms ou logstash (mais avançado);   
+  - Armazenamento: guarda os dados de forma segura, garantindo a sua integridade, confidencialidade e disponibilidade, conforme a finalidade definida na coleta. Exemplo de ferramenta: MariaDB ou SQLite;   
+  - Uso: é o ato de empregar os dados de acordo com a finalidade para a qual foram coletados, que pode incluir análise, compartilhamento específico, entre outros usos. Exemplo de ferramenta: LibreOffice ou Apache Superset;   
+  - Processamento: manipulação dos dados, que pode incluir organização, modificação, anonimização, entre outras formas de processamento. Exemplo de ferramenta: KNIME ou Python com Pandas;   
+  - Descarte: eliminação segura dos dados que não são mais necessários, assegurando que não possam ser recuperados ou acessados posteriormente. Exemplo de ferramenta: BleachBit (GUI) ou Shred (terminal);   
