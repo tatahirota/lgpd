@@ -31,7 +31,7 @@ Princípios da LGPD:
 ## **DIREITO DOS TITULARES**   
 
 
-## ** CICLO DE VIDA DOS DADOS**   
+## **CICLO DE VIDA DOS DADOS**   
 **ETAPAS:**   
   - **Coleta:** é o ato de obter dados pessoais diretamento do titular ou de outras fontes, com uma finalidade específica e legítima. Exemplo de ferramenta: nextcloud com forms ou logstash (mais avançado);   
   - **Armazenamento:** guarda os dados de forma segura, garantindo a sua integridade, confidencialidade e disponibilidade, conforme a finalidade definida na coleta. Exemplo de ferramenta: MariaDB ou SQLite;   
